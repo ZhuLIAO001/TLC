@@ -45,7 +45,15 @@ To test TLC with ResNet-18 on another dataset, like VLCS, you can run:
 
 ```python TLC_ResNet18.py --dataset VLCS --DATA_DIR $DATASET_PATH  ```
 
+To test other Image Classification setups, you can run:
+
+```python TLC_$MODEL.py --dataset $DATASET --DATA_DIR $DATASET_PATH  ```
+
 Before executing, please ensure that the target dataset already exists on your machine.
+
+To test NLP setups, you can run:
+
+```python TLC_$MODEL.py --dataset $DATASET  ```
 
 ## List of available datasets
 
