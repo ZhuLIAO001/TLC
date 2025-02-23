@@ -43,7 +43,7 @@ To test TLC with MobileNetv2 on CIFAR-10 following the same policy as in the pap
 
 To test TLC with ResNet-18 on another dataset, like VLCS, you can run:
 
-```python TLC_ResNet-18.py --dataset VLCS --DATA_DIR $DATASET_PATH  ```
+```python TLC_ResNet18.py --dataset VLCS --DATA_DIR $DATASET_PATH  ```
 
 Before executing, please ensure that the target dataset already exists on your machine.
 
