@@ -83,10 +83,13 @@ Please find the extended version of the paper at [Till the Layers Collapse: Comp
 
 If you find this useful for your research, please cite the following paper.
 ```
-@article{liao2024till,
-  title={Till the Layers Collapse: Compressing a Deep Neural Network through the Lenses of Batch Normalization Layers},
+@inproceedings{liao2025till,
+  title={Till the Layers Collapse: Compressing a Deep Neural Network through the Lenses of Batch Normalization Layers.},
   author={Liao, Zhu and Hezbri, Nour and Qu{\'e}tu, Victor and Nguyen, Van-Tam and Tartaglione, Enzo},
-  journal={arXiv preprint arXiv:2412.15077},
-  year={2024}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={18},
+  pages={18702--18710},
+  year={2025}
 }
 ```
